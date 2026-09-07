@@ -4,5 +4,5 @@ authors:
 - family-names: "Eklavya Saini"
 title: "Flintlock: Hardware-assisted memory sandboxing for high-frequency parsing of untrusted bytes in Go."
 version: "1.0.0"
-date-released: 2026-08-31
+date-released: 2026-09-6
 url: "https://github.com/Coolcubercoder/Flintlock"
