@@ -106,7 +106,7 @@ limit exactly on a one-byte overflow.
 ## Install
 
 ```
-go get github.com/flintlock/flintlock
+go get github.com/Coolcubercoder/flintlock
 ```
 
 Requires Go 1.22+ and a POSIX platform (Linux, macOS, BSD). See [Portability](#portability).
